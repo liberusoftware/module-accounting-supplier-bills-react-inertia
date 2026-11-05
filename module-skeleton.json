@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-supplier-bills-react-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-supplier-bills",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-accounting-supplier-bills-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/accounting/nextjs/supplier-bills.md",
+  "presentationPlan": "projects/accounting/react/supplier-bills.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
